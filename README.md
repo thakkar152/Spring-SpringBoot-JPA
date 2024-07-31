@@ -3,13 +3,9 @@ Tutorial Projects for Spring, SpringBoot, Rest API with Spring Data JPA (H2/Mysq
 
 Sequence would be : 
 
-Spring 
+Spring     
 Spring boot
-
-JavaUdemy Other Topic 
-
-Junit
-Apache Maven 
 JPA Hibernate
 Simple Rest API with Spring Data JPA
+
 
