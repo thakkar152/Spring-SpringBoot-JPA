@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;springframework-understanding-injections-Simple2&apos; to &apos;springframework-JakartaCDI&apos;" description="Rename resource &apos;springframework-understanding-injections-Simple2&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/springframework-understanding-injections-Simple2" name="springframework-JakartaCDI" stamp="1718982380865" updateReferences="true"/>
+</session>
