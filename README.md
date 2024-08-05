@@ -1,5 +1,6 @@
 # Spring-SpringBoot-JPA
-All things are in git hub now. 
+
+Everything is in git now... check github 
 
 Tutorial Projects for Spring, SpringBoot, Rest API with Spring Data JPA (H2/Mysql), Hibernate, Spring JDBC
 
@@ -13,5 +14,10 @@ JavaUdemy Other Topic
 Junit
 Apache Maven 
 JPA Hibernate
-Simple Rest API with Spring Data JPA
 
+Simple Rest API with Spring Data JPA
+=======
+Spring     
+Spring boot     
+JPA Hibernate        
+Simple Rest API with Spring Data JPA            
