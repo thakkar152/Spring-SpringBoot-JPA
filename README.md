@@ -6,6 +6,7 @@ Tutorial Projects for Spring, SpringBoot, Rest API with Spring Data JPA (H2/Mysq
 
 Sequence would be : 
 
+Study Java Reflection. Its in google drive. 
 Spring 
 Spring boot
 
