@@ -9,6 +9,9 @@ public class BasicSpring {
 	public static void main(String[] args) {
 	
 		//1: Launch spring Context 
+		// With reflection, spring collects everything about every class, like what annotation is being used, 
+		// what peroperties are there, what methods are there and makes a map of all these info somewhere during
+		//spring starts. Hence spring has all info about every calls and annotation. 
 		var context = new AnnotationConfigApplicationContext(SpringConfiguration.class);
 		
 		
@@ -21,8 +24,9 @@ public class BasicSpring {
 		
 		var name = context.getBean("name");
 		System.out.println(name);
-		
-		var age = context.getBean("age");
+
+		//var is an object here whereever we are calling bean by context
+		Object age = context.getBean("age");
 		System.out.println(age);
 		
 		var person = context.getBean("person");
