@@ -24,6 +24,7 @@ JPA Hibernate
 Simple Rest API with Spring Data JPA            
 
 Google Drive Updated README : 
+===============
 
 Sequence would be : 
 
@@ -47,4 +48,13 @@ JavaUdemy Other Topic
 SpringBoot with React. 
 
 Next Section would be Spring boot with React in react folder. 
+
+
+
+Process to import this projects 
+===========
+
+-> Clone branch on your local box using git ssh (Only admin can commit - I have added rules for all repositories and all branches. ) 
+-> go to eclipse. 
+-> File -> Open projects from file systems -> select full folder "Spring-SpringBoot-JPA"
 
