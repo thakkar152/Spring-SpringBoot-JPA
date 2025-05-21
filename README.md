@@ -1,6 +1,7 @@
       
 Google Drive Updated README : 
 ===============
+OPEN all documents in WPS office (Mac) or MS office. Images are not loading in other softwares.
 
 Sequence would be : 
 
