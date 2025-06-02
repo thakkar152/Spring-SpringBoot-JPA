@@ -27,6 +27,10 @@ public class DataServiceRunner {
 		try(var context = new AnnotationConfigApplicationContext(DataServiceRunner.class)){
 		
 			System.out.println("Max for mongo :" + context.getBean(BusinessCalculateService.class).findMax());
+			
+			//if you want specific mysql then. 
+			DataService mySql = (DataService) context.getBean(MySQLDataService.class);
+			System.out.println("Max for MySQL: " + new BusinessCalculateService(mySql).findMax());
 		
 		}
 		
