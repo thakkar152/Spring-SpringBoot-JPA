@@ -141,6 +141,7 @@ public class ItemController {
 	}
 	
 	
+
 	//============================
 	//LARGE RESPONSE DATA STRATEGIES get call  -- READ NOTES. 
 	//============================
@@ -154,6 +155,7 @@ public class ItemController {
 	//subsequent call .. page = 1, then page =2 etc.. 
 	//http://localhost:8080/api/items/paginated?page=1&size=10
 	// Also note defaultValue below.. if no params are given then it will take 0th page and 10 size. 
+	// We have created an entry for this pagable request in repository. its not default. 
 	
 	@GetMapping("/paginated")
     public ResponseEntity<Page<Item>> getPaginatedItems(@RequestParam(defaultValue = "0") int page,
