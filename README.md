@@ -1,6 +1,8 @@
       
-Google Drive Updated README : 
-===============
+
+Git is main point of start
+==========================
+
 OPEN all documents in WPS office (Mac) or MS office. Images are not loading in other softwares.
 
 Sequence would be :     
@@ -30,7 +32,7 @@ SpringBoot with React. -- Next Section would be Spring boot with React in react 
 Process to import this projects 
 ===========
 
--> Clone branch on your local box using git ssh (Only admin can commit - I have added rules for all repositories and all branches. ) 
--> go to eclipse. 
--> File -> Open projects from file systems -> select full folder "Spring-SpringBoot-JPA"
+-> Clone branch on your local box using git ssh (Only admin can commit - I have added rules for all repositories and all branches. )    
+-> go to eclipse.       
+-> File -> Open projects from file systems -> select full folder "Spring-SpringBoot-JPA"    
 
