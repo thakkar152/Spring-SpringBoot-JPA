@@ -9,7 +9,7 @@ Sequence would be :
 
 Spring_Udemy_rang folder :     
 
-Study Java Reflection. Its in google drive.     
+Study Java Reflection.     
 1_Full-Spring-3Sections    
 2_SpringBoot    
 
